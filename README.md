@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![LinkedIn Badge](https://img.shields.io/badge/-Naama%20Cohen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naama-cohen-2a799963/)](https://www.linkedin.com/in/naama-cohen-2a799963/)
 
 <!--
 **CohenNaama/CohenNaama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
