@@ -17,6 +17,8 @@ AI-powered trivia game integrating OpenAI, Claude, and Gemini APIs. Generates dy
 ### 🔍 [FindMe (Django App – Live Demo)](http://16.171.34.196/)
 Lost & found reporting platform built with Django + React. Includes geo-filtered search, real-time user notifications, admin dashboard, and full AWS deployment (EC2, RDS, S3).
 
+ 🌍 Integrated Mapbox for geo-location search (currently disabled to optimize cloud resources).
+ 
 *Originally built as my first fullstack app — it laid the groundwork for my backend development journey.* *(Private code repository)*
 
 ### 💬 [AskMe (Flask GPT App)](https://github.com/CohenNaama/AskMe-Server)
