@@ -9,7 +9,9 @@ I genuinely enjoy developing data-driven platforms with **real-time features (So
 Advanced fullstack social network built with Flask and React. Supports real-time chat and notifications via Socket.IO, JWT-based auth, Redux state management, and SQL Server integration.
 
 ### 🌐 [MetaFetch](https://github.com/CohenNaama/MetaFetch)
-A React + Node.js (Express) web app that extracts metadata from user-submitted URLs. Features include a styled multi-input form, Axios API integration, backend validation, and modular Express architecture.
+A fullstack React + Node.js web app that extracts and displays metadata (title, description, image) from submitted URLs in real time.
+
+🔗 [Live Demo](https://metafetch-zeta.vercel.app)
 
 ### 🏆 [Trivia VS AI](https://github.com/CohenNaama/TriviaVsAI-Server)
 AI-powered trivia game integrating OpenAI, Claude, and Gemini APIs. Generates dynamic, difficulty-adjusted questions in real time with personalized feedback and gamified progression.
@@ -17,17 +19,20 @@ AI-powered trivia game integrating OpenAI, Claude, and Gemini APIs. Generates dy
 ### 🔍 [FindMe (Django App – Live Demo)](http://16.171.34.196/)
 Lost & found reporting platform built with Django + React. Includes geo-filtered search, real-time user notifications, admin dashboard, and full AWS deployment (EC2, RDS, S3).
 
- 🌍 Integrated Mapbox for geo-location search (currently disabled to optimize cloud resources).
+🔗 [Live Demo](http://16.171.34.196)
+
+🌍 Integrated Mapbox for geo-location search (currently disabled to optimize cloud resources).
  
 *Originally built as my first fullstack app — it laid the groundwork for my backend development journey.* *(Private code repository)*
 
 ### 💬 [AskMe (Flask GPT App)](https://github.com/CohenNaama/AskMe-Server)
 AI-based Q&A platform using Flask + OpenAI API. Dockerized with PostgreSQL, CI/CD setup, and styled with Materialize CSS for clean, responsive design.
 
+🔗 [Live Demo](https://askmeflaskapp.azurewebsites.net)
 
 ## 🛠 Technologies at a glance
 Experienced with:
-**Python • Flask • Django • Node.js • Express • React • PostgreSQL • Docker • AWS • Azure • JWT • CI/CD**
+**Python • Flask • Django • Node.js • Express • React • Material UI • PostgreSQL • Docker • AWS • Azure • JWT • CI/CD**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,flask,js,react,nodejs,express,html,css,postgres,docker,aws,azure,git,github,postman,vscode,figma&perline=9" alt="Tech Stack" />
