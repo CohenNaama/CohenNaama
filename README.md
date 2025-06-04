@@ -5,6 +5,16 @@ I genuinely enjoy developing data-driven platforms with **real-time features (So
 
 ##  Featured Projects
 
+### ⚙️ [AI-Powered Microservices Platform](https://github.com/CohenNaama/ai-microservices-platform)  
+Distributed microservices platform for intelligent text processing, built with **FastAPI, Kafka, Redis, and PostgreSQL**. Focused on real-world backend architecture with async communication, modular design, and production-ready infrastructure.
+
+- ✅ **Text Receiver** service completed (validation, Kafka, Redis, PostgreSQL)  
+- ✅ Docker Compose setup with clean inter-service networking  
+- ✅ Pytest-based test suite with custom markers  
+- 🚧 **Summarizer** service in development (OpenAI-based)  
+- 💡 Designed for scalability, monitoring, and future AI services
+
+
 ### 🔗 [Social App (Bitbucket)](https://bitbucket.org/myfirstflaskapp/)
 Advanced fullstack social network built with Flask and React. Supports real-time chat and notifications via Socket.IO, JWT-based auth, Redux state management, and SQL Server integration.
 
@@ -32,10 +42,11 @@ AI-based Q&A platform using Flask + OpenAI API. Dockerized with PostgreSQL, CI/C
 
 ## 🛠 Technologies at a glance
 Experienced with:
-**Python • Flask • Django • Node.js • Express • React • Material UI • PostgreSQL • Docker • AWS • Azure • JWT • CI/CD**
+
+**Python • Flask • Django • FastAPI • Node.js • Express • React • Material UI • PostgreSQL • SQLAlchemy • Kafka • Redis • Docker • AWS • Azure • JWT • CI/CD**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,flask,js,react,nodejs,express,html,css,postgres,docker,aws,azure,git,github,postman,vscode,figma&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,js,react,nodejs,express,html,css,postgres,redis,docker,aws,azure,git,github,postman,vscode,figma&perline=10" alt="Tech Stack" />
 </p>
 
 
