@@ -1,9 +1,18 @@
-#  Naama Cohen – Full-Stack Developer (Backend-Oriented)
+# Naama Cohen – Backend Developer
 
-Hi there! I'm a full-stack developer with a strong passion for backend technologies — building robust, scalable applications with **Python, Flask, Django, and PostgreSQL**, alongside modern frontend tools like **React, custom Hooks, Redux, and Material-UI**.  
-I genuinely enjoy developing data-driven platforms with **real-time features (Socket.IO)**, AI integrations, and clean, maintainable architecture.
+Hi there! I'm an entry-level backend developer, passionate about building scalable systems and learning through hands-on experience.
+
+After completing a comprehensive Python Full Stack Development program, I’ve been actively sharpening my skills through end-to-end projects — building backend systems with **Python, FastAPI, Flask, PostgreSQL**, and adding **React** frontends when needed. My work also includes tools like **Docker, Pytest**, **CI/CD pipelines**, and deployments on **AWS and Azure**. I’ve integrated AI technologies such as **OpenAI, Claude, and Gemini** into production-style applications.
+
+While backend is my main focus, I’m also comfortable working with **Redux, Material-UI**, and other frontend tools to complete the picture.
+
+🚀 I love learning new technologies and continuously aim for clean, maintainable code.  
+🔍 I'm open to entry-level backend developer opportunities.
+
 
 ##  Featured Projects
+
+Below are some of the hands-on projects I built to sharpen my backend skills and explore real-world architectures:
 
 ### ⚙️ [AI-Powered Microservices Platform](https://github.com/CohenNaama/ai-microservices-platform)  
 Distributed microservices platform for intelligent text processing, built with **FastAPI, Kafka, Redis, and PostgreSQL**. Focused on real-world backend architecture with async communication, modular design, and production-ready infrastructure.
@@ -24,7 +33,7 @@ A fullstack React + Node.js web app that extracts and displays metadata (title, 
 🔗 [Live Demo](https://metafetch-zeta.vercel.app)
 
 ### 🏆 [Trivia VS AI](https://github.com/CohenNaama/TriviaVsAI-Server)
-AI-powered trivia game integrating OpenAI, Claude, and Gemini APIs. Generates dynamic, difficulty-adjusted questions in real time with personalized feedback and gamified progression.
+AI-powered trivia game integrating OpenAI, Claude, and Gemini APIs. Flask backend + React frontend. Generates dynamic, difficulty-adjusted questions in real time with personalized feedback and gamified progression.
 
 ### 🔍 [FindMe (Django App – Live Demo)](http://16.171.34.196/)
 Lost & found reporting platform built with Django + React. Includes geo-filtered search, real-time user notifications, admin dashboard, and full AWS deployment (EC2, RDS, S3).
