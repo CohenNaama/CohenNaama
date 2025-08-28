@@ -1,14 +1,13 @@
-# Naama Cohen – Backend Developer
+# Naama Cohen - Junior Backend Developer
 
-Hi there! I'm an entry-level backend developer, passionate about building scalable systems and learning through hands-on experience.
+Hi there! 👋 
+I'm a junior backend-focused developer, building practical and scalable systems while continuously learning through hands-on experience.  
 
-After completing a comprehensive Python Full Stack Development program, I’ve been actively sharpening my skills through end-to-end projects — building backend systems with **Python, FastAPI, Flask, PostgreSQL**, and adding **React** frontends when needed. My work also includes tools like **Docker, Pytest**, **CI/CD pipelines**, and deployments on **AWS and Azure**. I’ve integrated AI technologies such as **OpenAI, Claude, and Gemini** into production-style applications.
+Since completing a Python Fullstack program, I’ve built 5+ projects (3 deployed to the cloud) using **Python, FastAPI, Flask, PostgreSQL**, often Dockerized and tested with **Pytest**. Some projects integrate AI features (OpenAI, Claude, Gemini), while others explore async services and Kafka pipelines.  
 
-While backend is my main focus, I’m also comfortable working with **Redux, Material-UI**, and other frontend tools to complete the picture.
+While backend is my main focus and passion, I’ve also built frontends with **React, Redux, and Material-UI** when needed to deliver complete applications. Across all projects, I’ve written around **800K lines of code** and **1.8K automated tests** - lots of trial, error, and hands-on learning.
 
-🚀 I love learning new technologies and continuously aim for clean, maintainable code.  
-🔍 I'm open to entry-level backend developer opportunities.
-
+🔍 Currently open to junior backend developer opportunities where I can contribute, grow, and collaborate.  
 
 ##  Featured Projects
 
@@ -35,14 +34,14 @@ A fullstack React + Node.js web app that extracts and displays metadata (title, 
 ### 🏆 [Trivia VS AI](https://github.com/CohenNaama/TriviaVsAI-Server)
 AI-powered trivia game integrating OpenAI, Claude, and Gemini APIs. Flask backend + React frontend. Generates dynamic, difficulty-adjusted questions in real time with personalized feedback and gamified progression.
 
-### 🔍 [FindMe (Django App – Live Demo)](http://16.171.34.196/)
+### 🔍 [FindMe (Django App - Live Demo)](http://16.171.34.196/)
 Lost & found reporting platform built with Django + React. Includes geo-filtered search, real-time user notifications, admin dashboard, and full AWS deployment (EC2, RDS, S3).
 
 🔗 [Live Demo](http://16.171.34.196)
 
 🌍 Integrated Mapbox for geo-location search (currently disabled to optimize cloud resources).
  
-*Originally built as my first fullstack app — it laid the groundwork for my backend development journey.* *(Private code repository)*
+*Originally built as my first fullstack app- it laid the groundwork for my backend development journey.* *(Private code repository)*
 
 ### 💬 [AskMe (Flask GPT App)](https://github.com/CohenNaama/AskMe-Server)
 AI-based Q&A platform using Flask + OpenAI API. Dockerized with PostgreSQL, CI/CD setup, and styled with Materialize CSS for clean, responsive design.
