@@ -1,6 +1,7 @@
 # Naama Cohen - Junior Backend Developer
 
 Hi there! 👋 
+
 I'm a junior backend-focused developer, building practical and scalable systems while continuously learning through hands-on experience.  
 
 Since completing a Python Fullstack program, I’ve built 5+ projects (3 deployed to the cloud) using **Python, FastAPI, Flask, PostgreSQL**, often Dockerized and tested with **Pytest**. Some projects integrate AI features (OpenAI, Claude, Gemini), while others explore async services and Kafka pipelines.  
@@ -8,6 +9,7 @@ Since completing a Python Fullstack program, I’ve built 5+ projects (3 deploye
 While backend is my main focus and passion, I’ve also built frontends with **React, Redux, and Material-UI** when needed to deliver complete applications. Across all projects, I’ve written around **800K lines of code** and **1.8K automated tests** - lots of trial, error, and hands-on learning.
 
 🔍 Currently open to junior backend developer opportunities where I can contribute, grow, and collaborate.  
+
 
 ##  Featured Projects
 
@@ -19,8 +21,8 @@ Distributed microservices platform for intelligent text processing, built with *
 - ✅ **Text Receiver** service completed (validation, Kafka, Redis, PostgreSQL)  
 - ✅ Docker Compose setup with clean inter-service networking  
 - ✅ Pytest-based test suite with custom markers  
-- 🚧 **Summarizer** service in development (OpenAI-based)  
-- 💡 Designed for scalability, monitoring, and future AI services
+- ✅ **Summarizer** service in development (OpenAI-based)  
+- ✅ Designed for scalability, monitoring, and future AI services
 
 
 ### 🔗 [Social App (Bitbucket)](https://bitbucket.org/myfirstflaskapp/)
