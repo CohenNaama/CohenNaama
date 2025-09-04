@@ -29,13 +29,18 @@ Distributed microservices platform for intelligent text processing, built with *
 ### 🔗 [Social App (Bitbucket)](https://bitbucket.org/myfirstflaskapp/)
 Advanced fullstack social network built with Flask and React. Supports real-time chat and notifications via Socket.IO, JWT-based auth, Redux state management, and SQL Server integration.
 
+### 🏆 [Trivia VS AI](https://github.com/CohenNaama/TriviaVsAI-Server)
+AI-powered trivia game integrating OpenAI, Claude, and Gemini APIs. Flask backend + React frontend. Generates dynamic, difficulty-adjusted questions in real time with personalized feedback and gamified progression.
+
+### 💬 [AskMe (Flask GPT App)](https://github.com/CohenNaama/AskMe-Server)
+AI-based Q&A platform using Flask + OpenAI API. Dockerized with PostgreSQL, CI/CD setup, and styled with Materialize CSS for clean, responsive design.
+
+🔗 [Live Demo](https://askmeflaskapp.azurewebsites.net)
+
 ### 🌐 [MetaFetch](https://github.com/CohenNaama/MetaFetch)
 A fullstack React + Node.js web app that extracts and displays metadata (title, description, image) from submitted URLs in real time.
 
 🔗 [Live Demo](https://metafetch-zeta.vercel.app)
-
-### 🏆 [Trivia VS AI](https://github.com/CohenNaama/TriviaVsAI-Server)
-AI-powered trivia game integrating OpenAI, Claude, and Gemini APIs. Flask backend + React frontend. Generates dynamic, difficulty-adjusted questions in real time with personalized feedback and gamified progression.
 
 ### 🔍 [FindMe (Django App - Live Demo)](http://16.171.34.196/)
 Lost & found reporting platform built with Django + React. Includes geo-filtered search, real-time user notifications, admin dashboard, and full AWS deployment (EC2, RDS, S3).
@@ -46,10 +51,6 @@ Lost & found reporting platform built with Django + React. Includes geo-filtered
  
 *Originally built as my first fullstack app- it laid the groundwork for my backend development journey.* *(Private code repository)*
 
-### 💬 [AskMe (Flask GPT App)](https://github.com/CohenNaama/AskMe-Server)
-AI-based Q&A platform using Flask + OpenAI API. Dockerized with PostgreSQL, CI/CD setup, and styled with Materialize CSS for clean, responsive design.
-
-🔗 [Live Demo](https://askmeflaskapp.azurewebsites.net)
 
 ## 🛠 Technologies at a glance
 Experienced with:
