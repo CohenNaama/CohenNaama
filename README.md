@@ -26,21 +26,40 @@ Distributed microservices platform for intelligent text processing, built with *
 - ✅ Designed for scalability, monitoring, and future AI services
 
 
-### 🔗 [Social App (Bitbucket)](https://bitbucket.org/myfirstflaskapp/)
-Advanced fullstack social network built with Flask and React. Supports real-time chat and notifications via Socket.IO, JWT-based auth, Redux state management, and SQL Server integration.
+### 🔗 Social App (Bitbucket)
+Real-time social network built with Flask and React, focused on secure user management and scalable backend structure.
+
+- ✅ JWT-based auth with role-based access control  
+- ✅ Real-time chat and notifications via Socket.IO  
+- ✅ 12+ domain models and 30+ endpoints (posts, messaging, follow system)  
+- ✅ 80% payload reduction via server-side pagination  
+- ✅ React guards + Redux state management  
+- ✅ Centralized logging for debugging  
+- ✅ Planned Docker deployment and Azure hosting
+
 
 ### 🏆 [Trivia VS AI](https://github.com/CohenNaama/TriviaVsAI-Server)
-AI-powered trivia game integrating OpenAI, Claude, and Gemini APIs. Flask backend + React frontend. Generates dynamic, difficulty-adjusted questions in real time with personalized feedback and gamified progression.
+AI-powered trivia game using OpenAI, Claude, and Gemini APIs. Built with Flask and React, it adapts difficulty based on user performance and delivers real-time, personalized feedback.
 
-### 💬 [AskMe (Flask GPT App)](https://github.com/CohenNaama/AskMe-Server)
-AI-based Q&A platform using Flask + OpenAI API. Dockerized with PostgreSQL, CI/CD setup, and styled with Materialize CSS for clean, responsive design.
+- ✅ Real-time question generation with GPT-3.5 (OpenAI)  
+- ✅ Adaptive difficulty using Gemini AI  
+- ✅ Feedback engine powered by Claude API  
+- ✅ JWT auth, PostgreSQL, and modular Flask architecture  
+- ✅ Gamified progression and global leaderboard  
+- ✅ Planned CI/CD pipeline and Docker deployment
 
-🔗 [Live Demo](https://askmeflaskapp.azurewebsites.net)
+### 💬 [AskMe (Flask GPT App)](https://github.com/CohenNaama/AskMe-Server)  
+AI-based Q&A platform using Flask + OpenAI API. Dockerized with PostgreSQL, CI/CD setup, and styled with Materialize CSS for clean, responsive design.  
+🔗 [Live Demo](https://askmeflaskapp.azurewebsites.net)  
+- ✅ Integrated CI/CD pipeline with GitHub Actions for smooth deployment  
+- ✅ Achieved over 90% backend test coverage with Pytest
 
-### 🌐 [MetaFetch](https://github.com/CohenNaama/MetaFetch)
-A fullstack React + Node.js web app that extracts and displays metadata (title, description, image) from submitted URLs in real time.
+### 🌐 [MetaFetch](https://github.com/CohenNaama/MetaFetch)  
+A fullstack React + Node.js web app that extracts and displays metadata (title, description, image) from submitted URLs in real time.  
+🔗 [Live Demo](https://metafetch-zeta.vercel.app)  
+- ✅ Implemented async metadata scraping pipeline with fallback logic  
+- ✅ Deployed to Vercel with responsive UI and error-handling for invalid URLs
 
-🔗 [Live Demo](https://metafetch-zeta.vercel.app)
 
 ### 🔍 [FindMe (Django App - Live Demo)](http://16.171.34.196/)
 Lost & found reporting platform built with Django + React. Includes geo-filtered search, real-time user notifications, admin dashboard, and full AWS deployment (EC2, RDS, S3).
@@ -64,9 +83,10 @@ Experienced with:
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** cohennama@gmail.com
-- [![LinkedIn Badge](https://img.shields.io/badge/-Naama%20Cohen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naama-cohen-2a799963/)](https://www.linkedin.com/in/naama-cohen-2a799963/) 
-- 🔗 **Portfolio:** Coming soon...
+- 📧 **Email:** cohennama@gmail.com  
+- [![LinkedIn Badge](https://img.shields.io/badge/-Naama%20Cohen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naama-cohen-2a799963/)](https://www.linkedin.com/in/naama-cohen-2a799963/)  
+- 🔗 **Digital Contact Card:** [https://cohennaama.github.io/naama-contact-card/](https://cohennaama.github.io/naama-contact-card/)
+
 
 
 
