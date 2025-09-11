@@ -26,7 +26,7 @@ Distributed microservices platform for intelligent text processing, built with *
 - ✅ Designed for scalability, monitoring, and future AI services
 
 
-### 🔗 Social App (Bitbucket)
+### 🔗 [Social App (Bitbucket)](https://bitbucket.org/myfirstflaskapp/) 
 Real-time social network built with Flask and React, focused on secure user management and scalable backend structure.
 
 - ✅ JWT-based auth with role-based access control  
