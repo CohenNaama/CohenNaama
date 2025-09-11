@@ -19,46 +19,50 @@ Below are some of the hands-on projects I built to sharpen my backend skills and
 ### ⚙️ [AI-Powered Microservices Platform](https://github.com/CohenNaama/ai-microservices-platform)  
 Distributed microservices platform for intelligent text processing, built with **FastAPI, Kafka, Redis, and PostgreSQL**. Focused on real-world backend architecture with async communication, modular design, and production-ready infrastructure.
 
-- ✅ **Text Receiver** service completed (validation, Kafka, Redis, PostgreSQL)  
-- ✅ Docker Compose setup with clean inter-service networking  
-- ✅ Pytest-based test suite with custom markers  
-- ✅ **Summarizer** service in development (OpenAI-based)  
-- ✅ Designed for scalability, monitoring, and future AI services
+  ✅ **Text Receiver** service completed (validation, Kafka, Redis, PostgreSQL)  
+  ✅ Docker Compose setup with clean inter-service networking  
+  ✅ Pytest-based test suite with custom markers  
+  ✅ **Summarizer** service in development (OpenAI-based)  
+  ✅ Designed for scalability, monitoring, and future AI services  
 
 
-### 🔗 [Social App (Bitbucket)](https://bitbucket.org/myfirstflaskapp/) 
+### 🔗 [Social App (Bitbucket)](https://bitbucket.org/myfirstflaskapp/)  
 Real-time social network built with Flask and React, focused on secure user management and scalable backend structure.
 
-- ✅ JWT-based auth with role-based access control  
-- ✅ Real-time chat and notifications via Socket.IO  
-- ✅ 12+ domain models and 30+ endpoints (posts, messaging, follow system)  
-- ✅ 80% payload reduction via server-side pagination  
-- ✅ React guards + Redux state management  
-- ✅ Centralized logging for debugging  
-- ✅ Planned Docker deployment and Azure hosting
+  ✅ JWT-based auth with role-based access control  
+  ✅ Real-time chat and notifications via Socket.IO  
+  ✅ 12+ domain models and 30+ endpoints (posts, messaging, follow system)  
+  ✅ 80% payload reduction via server-side pagination  
+  ✅ React guards + Redux state management  
+  ✅ Centralized logging for debugging  
+  ✅ Planned Docker deployment and Azure hosting  
 
 
-### 🏆 [Trivia VS AI](https://github.com/CohenNaama/TriviaVsAI-Server)
+### 🏆 [Trivia VS AI](https://github.com/CohenNaama/TriviaVsAI-Server)  
 AI-powered trivia game using OpenAI, Claude, and Gemini APIs. Built with Flask and React, it adapts difficulty based on user performance and delivers real-time, personalized feedback.
 
-- ✅ Real-time question generation with GPT-3.5 (OpenAI)  
-- ✅ Adaptive difficulty using Gemini AI  
-- ✅ Feedback engine powered by Claude API  
-- ✅ JWT auth, PostgreSQL, and modular Flask architecture  
-- ✅ Gamified progression and global leaderboard  
-- ✅ Planned CI/CD pipeline and Docker deployment
+  ✅ Real-time question generation with GPT-3.5 (OpenAI)  
+  ✅ Adaptive difficulty using Gemini AI  
+  ✅ Feedback engine powered by Claude API  
+  ✅ JWT auth, PostgreSQL, and modular Flask architecture  
+  ✅ Gamified progression and global leaderboard  
+  ✅ Planned CI/CD pipeline and Docker deployment  
+
 
 ### 💬 [AskMe (Flask GPT App)](https://github.com/CohenNaama/AskMe-Server)  
 AI-based Q&A platform using Flask + OpenAI API. Dockerized with PostgreSQL, CI/CD setup, and styled with Materialize CSS for clean, responsive design.  
 🔗 [Live Demo](https://askmeflaskapp.azurewebsites.net)  
-- ✅ Integrated CI/CD pipeline with GitHub Actions for smooth deployment  
-- ✅ Achieved over 90% backend test coverage with Pytest
+
+  ✅ Integrated CI/CD pipeline with GitHub Actions for smooth deployment  
+  ✅ Achieved over 90% backend test coverage with Pytest  
+
 
 ### 🌐 [MetaFetch](https://github.com/CohenNaama/MetaFetch)  
 A fullstack React + Node.js web app that extracts and displays metadata (title, description, image) from submitted URLs in real time.  
 🔗 [Live Demo](https://metafetch-zeta.vercel.app)  
-- ✅ Implemented async metadata scraping pipeline with fallback logic  
-- ✅ Deployed to Vercel with responsive UI and error-handling for invalid URLs
+
+  ✅ Implemented async metadata scraping pipeline with fallback logic  
+  ✅ Deployed to Vercel with responsive UI and error-handling for invalid URLs 
 
 
 ### 🔍 [FindMe (Django App - Live Demo)](http://16.171.34.196/)
