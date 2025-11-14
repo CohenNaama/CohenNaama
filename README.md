@@ -51,28 +51,37 @@ AI-powered trivia game using OpenAI, Claude, and Gemini APIs. Built with Flask a
 
 ### 💬 [AskMe (Flask GPT App)](https://github.com/CohenNaama/AskMe-Server)  
 AI-based Q&A platform using Flask + OpenAI API. Dockerized with PostgreSQL, CI/CD setup, and styled with Materialize CSS for clean, responsive design.  
-🔗 [Live Demo](https://askmeflaskapp.azurewebsites.net)  
 
   ✅ Integrated CI/CD pipeline with GitHub Actions for smooth deployment  
   ✅ Achieved over 90% backend test coverage with Pytest  
 
+![Demo Archived](https://img.shields.io/badge/Demo-Archived-lightgrey)  
+*Previously deployed on **Azure App Service** (archived after demo phase)*   
+
+
 
 ### 🌐 [MetaFetch](https://github.com/CohenNaama/MetaFetch)  
 A fullstack React + Node.js web app that extracts and displays metadata (title, description, image) from submitted URLs in real time.  
-🔗 [Live Demo](https://metafetch-zeta.vercel.app)  
 
   ✅ Implemented async metadata scraping pipeline with fallback logic  
-  ✅ Deployed to Vercel with responsive UI and error-handling for invalid URLs 
+  ✅ Responsive UI with robust error handling for invalid URLs  
+
+![Demo Archived](https://img.shields.io/badge/Demo-Archived-lightgrey)  
+*Previously deployed on **Vercel** (archived to optimize resource usage)*  
 
 
-### 🔍 [FindMe (Django App - Live Demo)](http://16.171.34.196/)
-Lost & found reporting platform built with Django + React. Includes geo-filtered search, real-time user notifications, admin dashboard, and full AWS deployment (EC2, RDS, S3).
+### 🔍 FindMe (Django App)  
+Lost & found reporting platform built with Django + React. Includes geo-filtered search, real-time notifications, admin dashboard, and scalable cloud deployment architecture.  
 
-🔗 [Live Demo](http://16.171.34.196)
+  ✅ Integrated Mapbox for geo-location search (toggled off in archived demo)  
+  ✅ Designed and deployed using **AWS EC2, RDS, and S3**  
 
-🌍 Integrated Mapbox for geo-location search (currently disabled to optimize cloud resources).
- 
-*Originally built as my first fullstack app- it laid the groundwork for my backend development journey.* *(Private code repository)*
+![Demo Archived](https://img.shields.io/badge/Demo-Archived-lightgrey)  
+*Previously hosted on AWS (archived after evaluation phase)*  
+
+*Originally built as my first full-stack app - it laid the groundwork for my backend development journey.* *(Private code repository)*  
+
+
 
 
 ## 🛠 Technologies at a glance
