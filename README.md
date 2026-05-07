@@ -1,15 +1,16 @@
-# Naama Cohen - Junior Backend Developer
+#  Naama Cohen - Backend Engineer
 
-Welcome to my GitHub 👋 
 
-I'm a junior backend-focused developer, building practical and scalable systems while continuously learning through hands-on experience.  
+Welcome to my GitHub 👋
 
-Since completing a Python Fullstack program, I’ve built 5+ projects (3 deployed to the cloud) using **Python, FastAPI, Flask, PostgreSQL**, often Dockerized and tested with **Pytest**. Some projects integrate AI features (OpenAI, Claude, Gemini), while others explore async services and Kafka pipelines.  
+I'm a backend-focused engineer building production AI systems and backend architectures with Python, cloud infrastructure, and modern AI integrations.
 
-While backend is my main focus and passion, I’ve also built frontends with **React, Redux, and Material-UI** when needed to deliver complete applications.  
+As part of my current engineering work, I design and build production AI systems, including multi-provider LLM orchestration platforms integrating OpenAI, Claude, and Gemini, with provider abstraction, streaming flows, and resilient fallback mechanisms.
+*(These systems are part of private production work and are not publicly available.)*
 
-🔍 Currently open to junior backend developer opportunities where I can contribute, grow, and collaborate.  
- 
+Alongside my professional work, I’ve built and deployed multiple fullstack systems using Python, FastAPI, Flask, PostgreSQL, Docker, React, Kafka, Redis, and cloud platforms such as AWS and Azure.
+
+While backend systems are my main focus, I also work end-to-end when needed to deliver complete applications.
 
 
 ##  Featured Projects
