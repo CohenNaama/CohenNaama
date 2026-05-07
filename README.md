@@ -5,8 +5,7 @@ Welcome to my GitHub 👋
 
 I'm a backend-focused engineer building production AI systems and backend architectures with Python, cloud infrastructure, and modern AI integrations.
 
-As part of my current engineering work, I design and build production AI systems, including multi-provider LLM orchestration platforms integrating OpenAI, Claude, and Gemini, with provider abstraction, streaming flows, and resilient fallback mechanisms.
-
+As part of my current engineering work, I design and build production AI systems, including multi-provider LLM orchestration platforms integrating OpenAI, Claude, and Gemini, with provider abstraction, streaming flows, and resilient fallback mechanisms.  
 *(These systems are part of private production work and are not publicly available.)*
 
 Alongside my professional work, I’ve built and deployed multiple fullstack systems using Python, FastAPI, Flask, PostgreSQL, Docker, React, Kafka, Redis, and cloud platforms such as AWS and Azure.
